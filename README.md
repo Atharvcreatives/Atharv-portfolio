@@ -3,10 +3,6 @@
   <a href="https://atharvcreatives.vercel.app/" target="_blank">atharvcreatives</a>
 </h2>
 
-
-<br/>
-
-
 ## Built With
 
 My personal portfolio <a href="https://atharvcreatives.vercel.app/" target="_blank">atharvcreatives</a> which features some of my github projects as well as my resume and technical skills.<br/>
